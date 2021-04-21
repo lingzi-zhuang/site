@@ -1,3 +1,7 @@
+This is thelingzuist's personal website, created using the following open-source HTML template.
+
+
+-------------------------------------------
 
 TITLE: 
 Light - Responsive Free HTML5 template
