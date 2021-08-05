@@ -251,7 +251,7 @@ ul ul, ul ol, ol ul, ol ol {
 
 .fh5co-intro {
   font-weight: 300 !important;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 27px;
   margin-bottom: 1em;
   position: relative;
@@ -919,7 +919,7 @@ ul ul, ul ol, ol ul, ol ol {
 }
 
 .fh5co-uppercase-heading-sm {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 26px;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -1282,7 +1282,7 @@ a > img.fh5co-align-center {
 }
 
 .fh5co-uppercase-heading-sm {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 26px;
   text-transform: uppercase;
   letter-spacing: 3px;
