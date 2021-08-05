@@ -159,6 +159,7 @@ ul ul, ul ol, ol ul, ol ol {
   display: inline-block;
   list-style: none;
   position: relative;
+  z-index: 10;
   padding-right: 20px;
 }
 #fh5co-header #fh5co-nav li a {
