@@ -4,21 +4,25 @@
 FREE HTML5 TEMPLATE 
 DESIGNED & DEVELOPED by FREEHTML5.CO
 
+
+--------current link color scheme: 007fa3-------------
+
+--------original link color scheme: 7ee383------------
 //////////////////////////////////////////////////////
 */
-@font-face {
+/*@font-face {
   font-family: 'themify';
   src: url("../fonts/themify/themify.eot?-fvbane");
   src: url("../fonts/themify/themify.eot?#iefix-fvbane") format("embedded-opentype"), url("../fonts/themify/themify.woff?-fvbane") format("woff"), url("../fonts/themify/themify.ttf?-fvbane") format("truetype"), url("../fonts/themify/themify.svg?-fvbane#themify") format("svg");
   font-weight: normal;
   font-style: normal;
-}
+}*/
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: 18px;
   line-height: 26px;
   color: #2e2e2e;
-  font-weight: 300;
+  font-weight: 200;
   letter-spacing: .05em;
 }
 
@@ -68,8 +72,8 @@ figure.fh5co-with-caption figcaption {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   margin: 0 0 20px 0;
   padding: 0;
-  font-family: "Lato", sans-serif;
-  font-weight: 400;
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 200;
 }
 
 h1, .h1 {
@@ -163,10 +167,10 @@ ul ul, ul ol, ol ul, ol ol {
   padding-right: 20px;
 }
 #fh5co-header #fh5co-nav li a {
-  font-weight: 700;
-  font-size: 13px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 15px;
+/*  text-transform: uppercase;*/
+/*  letter-spacing: 1px;*/
   color: #2e2e2e;
   padding: 4px 10px;
 }
@@ -189,7 +193,7 @@ ul ul, ul ol, ol ul, ol ol {
   content: '';
 }
 #fh5co-header #fh5co-nav li.active a {
-  color: #7ee383;
+  color: #007fa3;
 }
 @media screen and (max-width: 768px) {
   #fh5co-header #fh5co-nav {
@@ -256,7 +260,7 @@ ul ul, ul ol, ol ul, ol ol {
   line-height: 27px;
   margin-bottom: 1em;
   position: relative;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
 }
 .fh5co-intro .fh5co-border {
   position: absolute;
@@ -748,7 +752,7 @@ ul ul, ul ol, ol ul, ol ol {
 
 /* Buttons */
 .btn {
-  font-family: "Lato", sans-serif;
+  font-family: "Fira Sans", sans-serif;
   border-bottom: none !important;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -997,7 +1001,7 @@ ul ul, ul ol, ol ul, ol ol {
   cursor: pointer;
 }
 .fh5co-accordion .panel-heading .accordion-toggle {
-  color: #7ee383;
+  color: #007fa3;
   font-size: 19px
 }
 .fh5co-accordion .panel-heading .accordion-toggle:after {
@@ -1156,7 +1160,7 @@ a > img.fh5co-align-center {
 }
 
 .resp-tabs-list li {
-  font-family: "Lato", sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 
 .resp-content-active, .resp-accordion-active {
@@ -1177,7 +1181,7 @@ a > img.fh5co-align-center {
 
 /* Pricing Tables */
 .fh5co-pricing-table-1 {
-  font-family: "Lato", sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 @media screen and (max-width: 992px) {
   .fh5co-pricing-table-1 .fh5co-pricing-table-item {
@@ -1253,7 +1257,7 @@ a > img.fh5co-align-center {
 }
 
 .fh5co-link {
-  font-family: "Lato", sans-serif;
+  font-family: "Fira Sans", sans-serif;
 }
 .fh5co-link > i {
   margin-right: 5px;
